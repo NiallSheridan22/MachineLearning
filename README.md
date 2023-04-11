@@ -20,7 +20,11 @@ Data Mining
 Data mining is discovering patterns and valuable information from large data. Data mining has several steps data classification, prediction of outcomes, forecasting the result, Data clustering, affinity grouping, and description and profiling are some examples. Data mining will work with different algorithms and techniques to large data sets into useful information, the types of data techniques that will be used on the dataset will be bagging, boosting, and stacking.
 
 # Results
+The results combining models, it did not mean that they would perform better than a singular model. While it may seem intuitive that combining multiple models would improve performance, the reality is that each model has its strengths and weaknesses. The ensemble approach seeks to leverage the strengths of multiple models to overcome their individual weaknesses. However, if the models in the ensemble have similar weaknesses, combining them may not yield significant improvements in performance. The results of this study also imply that selecting a singular model may be more crucial than selecting an ensemble approach. In other words, it might not be essential to use an ensemble method if a single model is chosen that excels at the job of detecting credit card fraud.
 
 # Future Work
+Investigate the impact of different data sources: This study used a single dataset for credit card fraud detection. Future research could explore the performance of different models on different datasets to see if there are any models that are more effective in certain scenarios.
 
 # Contact
+L00147371@atu.ie
+Niall Sheridan
