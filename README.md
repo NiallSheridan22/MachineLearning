@@ -26,7 +26,8 @@ The results combining models, it did not mean that they would perform better tha
 Investigate the impact of different data sources: This study used a single dataset for credit card fraud detection. Future research could explore the performance of different models on different datasets to see if there are any models that are more effective in certain scenarios.
 
 #References
- https://towardsdatascience.com/smote-fdce2f605729
+
+https://towardsdatascience.com/smote-fdce2f605729
 https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification![image]
 https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html
 
